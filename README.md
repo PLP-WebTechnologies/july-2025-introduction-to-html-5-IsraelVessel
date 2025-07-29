@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Accessible and SEO Friendly Webpage</title>
+
   <meta name="description" content="A simple web page using HTML5 semantic elements, built for accessibility and SEO." />
 </head>
 <body>
